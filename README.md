@@ -1,0 +1,2 @@
+# Semantic-Similarity-Detection-of-System-and-Software-Requirements-Using-Sentence-Transformers.
+Semantic Similarity Detection of Requirements, harnesses the power of Sentence Transformers and Streamlit to conduct advanced Natural Language Processing (NLP) tasks. With features like requirement match scoring and keyword analysis, it swiftly identifies similarities between textual requirements, aiding in efficient requirement evaluation. 
